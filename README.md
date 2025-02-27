@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Fátima Melisa Lino
 
-<!--
-**Melisa7L/Melisa7L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy tesista de Licenciatura en Sistemas y estoy a un paso de titularme. Me apasiona aprender y siempre estoy en la búsqueda de nuevos desafíos, especialmente en el fascinante mundo del análisis de datos.
 
-Here are some ideas to get you started:
+## 🌟 Mis Intereses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis áreas de conocimiento incluyen:
+
+- **Análisis de Datos**
+- **Testing**
+- **Electricidad**
+- **Diseño UX**
+- **Machine Learning**
+
+## 🛠️ Herramientas y Tecnologías
+
+Tengo experiencia con una variedad de herramientas y lenguajes, tales como:
+
+- **Lenguajes de Programción**: Python, JavaScript, TypeScript, C++, HTML, CSS
+- **Frameworks**: React, Django
+- **Herramientas**: GitHub, Docker, Power BI, SQL, Tailwind CSS
+
+## 🚀 Siempre Aprendiendo
+
+Disfruto enfrentar nuevos retos y aprender cosas nuevas a diario. 
