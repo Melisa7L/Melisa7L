@@ -38,7 +38,7 @@ Tengo experiencia con una variedad de herramientas y lenguajes, tales como:
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
-  <code><img width="15%" src="https://www.pngitem.com/pimgs/m/149-1496606_numpy-logo-numpy-logo-png-transparent-png.png"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft-powerbi/powerbi-ar21.svg"></code>
 </p>
 
