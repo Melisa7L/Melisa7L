@@ -36,10 +36,10 @@ Tengo experiencia con una variedad de herramientas y lenguajes, tales como:
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
+ <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.png"></code>
+ <code><img width="15%" src="https://pandas.pydata.org/docs/_static/pandas.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft-powerbi/powerbi-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.png"></code>
 </p>
 
 
