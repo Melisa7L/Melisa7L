@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Fátima Melisa Lino
 
-Soy tesista de Licenciatura en Sistemas y estoy a un paso de titularme. Me apasiona aprender y siempre estoy en la búsqueda de nuevos desafíos, especialmente en el fascinante mundo del análisis de datos.
+Soy Licenciada en Sistemas. Me apasiona aprender y siempre estoy en la búsqueda de nuevos desafíos, especialmente en el fascinante mundo del análisis de datos.
 
 ## 🌟 Mis Intereses
 
